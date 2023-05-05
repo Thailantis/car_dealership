@@ -1,5 +1,5 @@
 # Using the PDF of business rules for the car dealership, you will need to come up with an ERD.
-#Once you have come to a conclusion, you will then create a new database using the ERD.
+Once you have come to a conclusion, you will then create a new database using the ERD.
 
 The files needed to be turned in are:
 The ERD PDF
