@@ -24,6 +24,7 @@ CREATE OR REPLACE FUNCTION insert_customer_and_car_sale(
     c_last_name varchar,
     c_first_name varchar,
     c_email varchar,
+    customer_id INTEGER,
     car_inv_id INTEGER,
     sales_id INTEGER,
     sales_date DATE,
